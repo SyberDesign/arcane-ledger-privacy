@@ -53,7 +53,7 @@ Arcane Ledger is an independent tool not affiliated with, endorsed by, licensed 
 
 ## Contact
 
-Privacy-related questions: privacy@syberdesign.com
+Privacy-related questions: syberdesignforyou@gmail.com
 General inquiries: [github.com/SyberDesign](https://github.com/SyberDesign)
 
 © 2025 Syberdesign. All rights reserved.
